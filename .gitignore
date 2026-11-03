@@ -1,0 +1,4 @@
+TodoCalendarData/
+_internal/
+*.log
+__pycache__/
